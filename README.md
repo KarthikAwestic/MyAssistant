@@ -27,6 +27,9 @@ samples, guidance on mobile development, and a full API reference.
 # 11th Sep - Studied about short cuts (cmd+zero, sht+cmd+E, sht+cmd+D, cmd+y, sht+cmd+], cmd+sht+o, cmd+k, ctrl+minus, cmd+opt+rtArrow)
 # 12th Sep - Added Json_Serialization (with literals) library, Created AppUser, Added Optional, Tuple libraries. 
 # 13th Sep - Added AppUserService, saving and retriving appuser user dart: convert encode and decoding. 
+.
+.
+# 16th Sep - Pushed MyAssistant to Github, refactors all the folder names to match naming convention. 
 
 Todo: 
 Git setup 
