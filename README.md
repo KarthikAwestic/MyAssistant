@@ -17,3 +17,18 @@ For help getting started with Flutter, view our
 
 samples, guidance on mobile development, and a full API reference.
 
+
+# 5th Set - Screens and Setting Up
+# 6th Sep - About getIt locator service 
+# 7th Sep - Creating Prefrence Helper and Connecting Basic Login Screen. 
+.
+.
+# 10th Sep - Created Dart Basics in One Note, Handling Tabbar by TargetPlatform
+# 11th Sep - Studied about short cuts (cmd+zero, sht+cmd+E, sht+cmd+D, cmd+y, sht+cmd+], cmd+sht+o, cmd+k, ctrl+minus, cmd+opt+rtArrow)
+# 12th Sep - Added Json_Serialization (with literals) library, Created AppUser, Added Optional, Tuple libraries. 
+# 13th Sep - Added AppUserService, saving and retriving appuser user dart: convert encode and decoding. 
+
+Todo: 
+Git setup 
+dio framework 
+
