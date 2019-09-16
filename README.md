@@ -34,4 +34,8 @@ samples, guidance on mobile development, and a full API reference.
 Todo: 
 Git setup 
 dio framework 
-
+[https://pub.dev/packages/rebloc] 
+[https://pub.dev/packages/flutter_sqflite_manager]
+[https://flutterawesome.com/a-flutter-app-based-on-the-design-of-the-to-do-app/]
+[https://flutterawesome.com/a-showcase-flutter-todo-application/]
+[https://github.com/mogol/flutter_secure_storage]
