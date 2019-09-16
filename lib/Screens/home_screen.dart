@@ -2,11 +2,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 
-import 'package:my_assistant/Utils/device_utils.dart';
-
-import 'package:my_assistant/Models/AppUser/appuser.dart';
-import 'package:my_assistant/Service/global_service.dart';
-import 'package:my_assistant/Service/prefrence_service.dart';
+import 'package:my_assistant/utils/device_utils.dart';
+import 'package:my_assistant/models/appUser/appuser.dart';
+// import 'package:my_assistant/service/global_service.dart';
+// import 'package:my_assistant/service/prefrence_service.dart';
 
 class HomeScreen extends StatefulWidget {
   HomeScreen({Key key}) : super(key: key);

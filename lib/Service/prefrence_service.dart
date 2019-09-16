@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:my_assistant/Models/AppUser/appuser.dart';
+import 'package:my_assistant/models/appUser/appuser.dart';
 
 class Prefrence {
   // private variablase

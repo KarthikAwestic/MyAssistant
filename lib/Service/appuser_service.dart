@@ -1,6 +1,6 @@
 import 'prefrence_service.dart';
 import 'global_service.dart';
-import 'package:my_assistant/Models/AppUser/appuser.dart';
+import 'package:my_assistant/models/appUser/appuser.dart';
 
 class CurrentUserService {
   // Creating Siogleton

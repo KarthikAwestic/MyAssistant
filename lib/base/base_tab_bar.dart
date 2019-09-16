@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 
-import 'package:my_assistant/Utils/device_utils.dart';
-import 'package:my_assistant/Screens/home_screen.dart';
-import 'package:my_assistant/Screens/settings_screen.dart';
+import 'package:my_assistant/utils/device_utils.dart';
+import 'package:my_assistant/screens/home_screen.dart';
+import 'package:my_assistant/screens/settings_screen.dart';
 
 class BaseTabBarScreen extends StatefulWidget {  
   BaseTabBarScreen({Key key}) : super(key: key);
