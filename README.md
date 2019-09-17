@@ -35,6 +35,7 @@ Todo:
 Git setup 
 dio framework 
 [https://pub.dev/packages/rebloc] 
+[https://github.com/pedromassango/bottom_navy_bar]
 [https://pub.dev/packages/flutter_sqflite_manager]
 [https://flutterawesome.com/a-flutter-app-based-on-the-design-of-the-to-do-app/]
 [https://flutterawesome.com/a-showcase-flutter-todo-application/]
