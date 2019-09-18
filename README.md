@@ -1,34 +1,39 @@
 # my_assistant
+    A new Flutter project. which created in the aim of adding notes and creating customizable reaminders. 
 
-A new Flutter project.
+## Resource Used 
+- flutter_splash_screen - https://pub.dev/packages/flutter_splash_screen#-readme-tab-
+    - For ios, edit LaunchScreen.storyboard file
+    - For Android, edit the laumch_screen.xml file 
+    - launch screen will hided on the main.dart file 
 
-## Getting Started
+## Study History 
 
-This project is a starting point for a Flutter application.
+Month    | Date     | History
+---------|----------|---------
+ **Sep** | 5th      | Screens and Setting Up
+ ,,,,    | 6th      | About getIt locator service 
+ ,,,,    | 7th      | About getIt locator service 
+ ,,,,    | ...      | ....
+ ,,,,    | ...      | ....
+ ,,,,    | 10th     | Creating Prefrence Helper and Connecting Basic Login Screen. 
+ ,,,,    | 11th     | Created Dart Basics in One Note, Handling Tabbar by TargetPlatform
+ ,,,,    | 12th     | Studied about short cuts (cmd+zero, sht+cmd+E, sht+cmd+D, cmd+y, sht+cmd+], cmd+sht+o, cmd+k, ctrl+minus, cmd+opt+rtArrow)
+ ,,,,    | 13th     | Added Json_Serialization (with literals) library, Created AppUser, Added Optional, Tuple libraries. 
+ ,,,,    | 14th     | Added AppUserService, saving and retriving appuser user dart: convert encode and decoding.
+ ,,,,    | ...      | ....
+ ,,,,    | ...      | ....
+ ,,,,    | 16th     | Pushed MyAssistant to Github, refactors all the folder names to match naming convention. 
+ ,,,,    | 17th     | Added AppRouter and AppNavigator file, handing Navigation flow. 
+ ,,,,    | 18th     | Handling Splash Screen. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-
-
-samples, guidance on mobile development, and a full API reference.
-
-
-# 5th Set - Screens and Setting Up
-# 6th Sep - About getIt locator service 
-# 7th Sep - Creating Prefrence Helper and Connecting Basic Login Screen. 
-.
-.
-# 10th Sep - Created Dart Basics in One Note, Handling Tabbar by TargetPlatform
-# 11th Sep - Studied about short cuts (cmd+zero, sht+cmd+E, sht+cmd+D, cmd+y, sht+cmd+], cmd+sht+o, cmd+k, ctrl+minus, cmd+opt+rtArrow)
-# 12th Sep - Added Json_Serialization (with literals) library, Created AppUser, Added Optional, Tuple libraries. 
-# 13th Sep - Added AppUserService, saving and retriving appuser user dart: convert encode and decoding. 
 
 Todo: 
 Git setup 
 dio framework 
-
+[https://pub.dev/packages/rebloc] 
+[https://github.com/pedromassango/bottom_navy_bar]
+[https://pub.dev/packages/flutter_sqflite_manager]
+[https://flutterawesome.com/a-flutter-app-based-on-the-design-of-the-to-do-app/]
+[https://flutterawesome.com/a-showcase-flutter-todo-application/]
+[https://github.com/mogol/flutter_secure_storage]

@@ -9,12 +9,8 @@ class Prefrence {
 
   // checks for singleton instance, and
   static Future<Prefrence> getInstance() async {
-    if (_instance == null) {
-      _instance = Prefrence();
-    }
-    if (_preferences == null) {
-      _preferences = await SharedPreferences.getInstance();
-    }
+    _instance ??= Prefrence();
+    _preferences ??= await SharedPreferences.getInstance();    
     return _instance;
   }
 

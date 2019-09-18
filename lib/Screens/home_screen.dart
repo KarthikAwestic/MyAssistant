@@ -32,6 +32,7 @@ class _HomeScreenState extends State<HomeScreen> {
 // Customer customer = new Customer.fromJson(map);
 
     var json = {
+    "number": 123,
     "status": "ACTIVE",
     "login": "karthik.samy@a-cti.com",
     "id": "155a66a7-3cf8-4314-bebc-9b21e56edeb9",
