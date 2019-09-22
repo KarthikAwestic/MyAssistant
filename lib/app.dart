@@ -15,8 +15,8 @@ class BootstrapModel {
 class App extends StatefulWidget {
 
   final bool isFirstTime;
-  App({@required AppEnvironment env,
-   @required this.isFirstTime}) {
+
+  App({@required AppEnvironment env, @required this.isFirstTime}) {
     Settings.environment = env;
     SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
   }
