@@ -25,12 +25,18 @@ Month    | Date     | History
  ,,,,    | ...      | ....
  ,,,,    | 16th     | Pushed MyAssistant to Github, refactors all the folder names to match naming convention. 
  ,,,,    | 17th     | Added AppRouter and AppNavigator file, handing Navigation flow. 
- ,,,,    | 18th     | Handling Splash Screen. 
+ ,,,,    | 18th     | Handling Splash Screen. Added **Github** **Extension** to create a pull request with the "Create pull request for" command
+
+ 
 
 
 Todo: 
 Git setup 
 dio framework 
+
+flutter login with firebase [https://medium.com/flutterpub/flutter-how-to-do-user-login-with-firebase-a6af760b14d5]
+
+
 [https://pub.dev/packages/rebloc] 
 [https://github.com/pedromassango/bottom_navy_bar]
 [https://pub.dev/packages/flutter_sqflite_manager]
