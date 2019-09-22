@@ -1,19 +1,24 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-// Screens 
-//import 'package:my_assistant/screens/login_screen.dart';
-import 'package:my_assistant/base/splash_screen.dart';
+// Base
+import 'AppConstants.dart';
+import 'app.dart';
 
 // Service 
 import 'Service/global_service.dart';
 
 Future<void> main() async {
+  final BootstrapModel bs = await App.bootStrap();
   try {
     setupLocator().whenComplete(() {      
-      runApp(SplashScreen());
+      runApp(App(
+        env: AppEnvironment.live,
+        isFirstTime: bs.isFirstTime
+      ));
     });    
   } catch(error) {
     print('Locator setup has failed');
   }
 }
+
