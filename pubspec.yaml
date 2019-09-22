@@ -18,6 +18,7 @@ dependencies:
   json_annotation: ^3.0.0
   optional: ^3.1.0
   tuple: ^1.0.2
+  get_version: ^0.0.5
 
   #flutter_secure_storage - for key chain storage
   #dio: 2.1.x - network library 
